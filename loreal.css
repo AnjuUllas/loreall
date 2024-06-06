@@ -1,0 +1,403 @@
+.container{
+    width:100%;
+    overflow-x: hidden;
+
+}
+.first{
+    width:100%;
+    height:570px;
+    background-image:url("https://www.loreal-paris.co.uk/-/media/project/loreal/brand-sites/oap/emea/uk/cannes-2023/about-cannes/visuel-hero_v2.jpg?rev=3a5acc1b56054b4cb0f2c4d6a098b5d1&cx=0.51&cy=0.4&cw=2000&ch=800&hash=DC571E9879F31CAEE5EAC44D5E01C52BFE7926AF");
+    background-repeat: no-repeat;
+}
+.header{
+    margin-left: 600px;
+    margin-top: 50px;
+}
+.loreal{
+    color:white;
+    font-size: 60px;
+    text-decoration: none;
+    padding-top: 100px;
+
+}
+.header2{
+    margin-left:700px ;
+}
+.paris{
+    color:white;
+    font-size: 17px;
+    text-decoration: none;
+
+}
+.subhead{
+    margin-left: 300px;
+    margin-top: 25px;
+}
+.links{
+    color: white;
+    font-size: 11px;
+    text-decoration: none;
+}
+.f1footer{
+    margin-top: 250px;
+    margin-left: 600px;
+}
+.cannes{
+    color: white;
+    font-size: 20px;
+
+
+}
+.f2footer{
+    margin-left: 300px;
+    margin-top: 10px;
+}
+
+.lpback{
+    color: white;
+    font-size: 50px;
+}
+.f3footer{
+   margin-left: 650px;
+   margin-top:10px; 
+}
+.discover{
+    padding: 10px 20px;
+    background-color: black;
+    color: white;
+    font-size: 15px;
+    text-decoration: none;
+}
+
+.second{
+    width:100%;
+    height:570px;
+    background-color: white;
+    text-decoration: none;
+    margin-left: 25px;
+    margin-top: 50px;
+}
+.beauty{
+    color:black;
+    font-size: 20px;
+}
+.feminine{
+    color:black;
+    font-size: 70px;
+
+}
+.third{
+    width: 100%;
+    height:570px;
+    background-image: url(https://www.loreal-paris.co.uk/-/media/project/loreal/brand-sites/oap/emea/it/brand/updated-folder/sito-web/233278---colo-banner-casting-natuaral-gloss-2000x900px-v1-p2.jpg?rev=0eeb1a1593514437a9158ba402210a74&cx=0.51&cy=0.45&cw=2000&ch=800&hash=047DE7C24BD96261C92941428D7625A529B29BE5);
+    background-repeat: no-repeat;
+    float:left;
+}
+.fourth{
+    width: 100%;
+    height:570px;
+    background-color: white;
+
+}
+.fourleft{
+    width:650px;
+    height:570px;
+    margin-left:100px;
+    background-color: white;
+    margin-top:70px;
+    float:left;
+}
+.fourleft1{
+    color:black;
+    font-size: 30px;
+}
+.fourleft2{
+    color:black;
+    font-size: 50px;
+}
+.fourleft3{
+    color:black;
+    font-size: 20px;
+}
+.discover-button{
+    margin-top: 200px;
+}
+.disbutton{
+    color:black;
+    font-size: 15px;
+}
+.fourright{
+    width:700px;
+    height:570px;
+    background-image: url("https://www.loreal-paris.co.uk/-/media/project/loreal/brand-sites/oap/emea/uk/products/hair/hair-color/natural-gloss/common-image-for-casting-natural-gloss-hair-color-1.png?w=720&rev=7d74f21db80a4318a300870f2fb28acd&hash=5FE2AED665BFB26C5F98DBF1EBA6E91152FA164A");
+    background-repeat: no-repeat;
+    float:left;
+}
+.fifth{
+    width: 100%;
+    height: 570px;
+    background-color: white;
+    float:left;
+    
+
+}
+.fiveone{
+    width:70%;
+    height:570px;
+    background-image: url("https://www.loreal-paris.co.uk/-/media/project/loreal/brand-sites/oap/emea/uk/uk-local-content/articles/bright-reveal/bright-reveal_visual_dmi_21.jpg?rev=f2c88bd739704f37b477386c3d432cfa&cx=0.52&cy=0.6&cw=1170&hash=8225FBBB95FF629703E099FB860F184136E2181F");
+    float:left;
+    background-position: center;
+}
+.five2{
+    width:30%;
+    height:570px;
+    background-color:white;
+    float:left;
+    color:black;
+    text-decoration: none;
+    font-size: 15px;
+
+}
+.hair{
+    text-decoration: none;
+    color:black;
+}
+.dark{
+    text-decoration: none;
+    color:black;
+}
+.guide{
+    text-decoration: none;
+    color:black;
+}
+.tips{
+    text-decoration: none;
+    color:black;
+}
+.hair-color{
+    text-decoration: none;
+    color:black;
+}
+.button1{
+    color:white;
+    padding:10px 20px;
+    border-radius: 20px;
+    background-color: black;
+    text-decoration: none;
+    margin-top: 20px;
+
+}
+.button2{
+    color:black;
+    padding:10px 20px;
+    border-radius: 20px;
+    border-color: black;
+    background-color:white;
+    text-decoration: none;
+    margin-top: 20px;
+
+}
+.sixth{
+    width: 100%;
+    height: 50px;
+    background-color: white;
+    float: left;
+}
+.seventh{
+    width: 100%;
+    height: 570px;
+    
+    float:left;
+
+}
+.seven1{
+    width:35%;
+    height:570px;
+    float:left;
+    background-color: black;
+    
+}
+.sevenhead{
+    color:white;
+    margin-left: 40px;
+    font-size: 20px;
+}
+.sevensubhead{
+    color: white;
+    font-size: 40px;
+    margin-left: 50px;
+}
+.seven2{
+    width:65%;
+    height:570px;
+    background-image: url("https://www.loreal-paris.co.uk/-/media/project/loreal/brand-sites/oap/emea/uk/uk-local-content/campaign-pages/online-consultations/herobanner_2000x600_e-lorealcom_online-consultations-finalv2.jpg?rev=a9a08539ce0146dbbc8f00141c59f4a8&cx=0.48&cy=0.13&cw=2000&ch=600&hash=2B8AC17ED4DB3B74BE5775E4BE9FEEC5F55F0AAB");
+    background-position: center;
+    background-repeat: no-repeat;
+    float: left;
+}
+.eighth{
+    width:100%;
+    height:50px;
+    background-color: white;
+    float:left;
+}
+.eight{
+    color:black;
+    margin-left: 650px;
+    font-size:20px;
+}
+.hone{
+    width:340px;
+    height:570px;
+    background-image: url("https://www.loreal-paris.co.uk/-/media/project/loreal/brand-sites/oap/emea/uk/uk-local-content/homepage/content-push/panorama-pack-in-hand-kendall-jenner.jpg?rev=8dad7eb3019546908c5dbaa32f4eeebe&cx=0.39&cy=0.53&cw=570&ch=600&hash=6A84A21371384AAE2D8D6E96E3498731E933448C");
+    float:left;
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+.htwo{
+    width:340px;
+    height:570px;
+    background-image: url("https://www.loreal-paris.co.uk/-/media/project/loreal/brand-sites/oap/emea/uk/uk-local-content/homepage/content-push/br-content-push.jpg?rev=bf6bf37c3f794eb4a7de9f4d6c4e2f3c&cx=0.39&cy=0.49&cw=570&ch=600&hash=76886D7DC4D5B426D92CA8F6411C5784AC6A5C01");
+    float:left;
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+.hthree{
+    width:340px;
+    height:570px;
+    background-image: url("https://www.loreal-paris.co.uk/-/media/project/loreal/brand-sites/oap/emea/uk/uk-local-content/campaign---attribute-pages/hair-colour/kate-winslet-preference.jpg?rev=7ee89593268e4cf79aba8f3a6050dcd5&cx=0.54&cy=0.53&cw=570&ch=600&hash=435A55BBA450BF6BC743C4695CBDF4AA107A963F");
+    float:left;
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+.hfour{
+    width:340px;
+    height:570px;
+    background-image: url("https://www.loreal-paris.co.uk/-/media/project/loreal/brand-sites/oap/emea/uk/uk-local-content/homepage/content-push/jermaine-studio-pack-in-hand.jpg?rev=5dde55f8525549b898aaa5b65636def4&cx=0.47&cy=0.47&cw=570&ch=600&hash=8D47C22989754A8A69D333A82B1E895CF8CC9259");
+    float:left;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+.nineth{
+    width:100%;
+    height:100px;
+    float:left;
+    background-color: white;
+}
+.vone{
+    width:710px;
+    height:570px;
+    background-image: url("https://www.loreal-paris.co.uk/-/media/project/loreal/brand-sites/oap/emea/uk/standup/image-2024-04-12-08-42-24-726.png?rev=ff200a3c719942d49f1a600dedb8e55c&cx=0&cy=0&cw=791&ch=791&hash=D5772D3B707D42F57BD472B57E9451B805BBE5F1");
+    float: left;
+    margin-left: 25px;
+}
+.vtwo{
+    width:710px;
+    height:570px;
+    background-color: white;
+    float: left;
+}
+.vtwohead{
+    color:black;
+    font-size:20px
+}
+.vtwosubhead{
+    color:black;
+    font-size: 15px;;
+}
+.vtwob{
+    margin-left: 200px;
+}
+.vtwobutton{
+
+    color: white;
+    background-color: black;
+    padding: 10px 10px;
+    text-decoration: none;
+}
+.vthree{
+    width:640px;
+    height:570px;
+    background-color:white;
+    float: left;
+}
+.vfourhead{
+    color:black;
+    font-size:20px
+}
+.vfoursubhead{
+    color:black;
+    font-size: 15px;;
+}
+.vfourb{
+    margin-left: 200px;
+}
+.vtwobutton{
+
+    color: white;
+    background-color: black;
+    padding: 10px 10px;
+    text-decoration: none;
+}
+.vfour{
+    width:800px;
+    height:570px;
+    background-image: url("https://www.loreal-paris.co.uk/-/media/project/loreal/brand-sites/oap/emea/uk/uk-local-content/homepage/testimonials/untitled-design-govind.jpg?rev=55d90cf4891b4ca78f5123f394c6e2d2&cx=0.25&cy=0.31&cw=940&ch=705&hash=757E776DE3FC6A23DA8504AE5A2B6498B4972FAB");
+    float: left;
+}
+.tenth{
+    width:100%;
+    height:50px;
+    background-color:white;
+    float: left;
+}
+.last{
+    width:100%;
+    height:570px;
+    background-size: 1400px 570px;
+    background-image: url("https://www.loreal-paris.co.uk/-/media/project/loreal/brand-sites/oap/shared/baseline/defaults/footer-images/footer_mobile_dark.jpg?rev=2ed257c6778c45aa8dc03e141131cccc&cx=0&cy=0&cw=0&ch=0&hash=09A5C580B942BC806B1FA3DBDAE64EF92D9D9E8E");
+    background-repeat: no-repeat;
+    background-position: center;
+    float:left;
+    
+}
+.blackclass{
+    width:100%;
+    height:180px;
+    background-color: black;
+    float: left;
+}
+.blinks{
+    color: white;
+    font-size: 15px;
+    text-decoration: none;
+}
+.lhead{
+    color:white;
+    font-size: 60px;
+    
+}
+.lsub{
+    color:white;
+    font-size: 40px;
+
+}
+.lsub1{
+    color:white;
+    font-size: 20px;
+
+
+}
+.lasthead{
+    margin-left: 250px;
+}
+.lastsub{
+    margin-left: 550px;
+}
+.lastsubhead{
+    margin-left: 600px;
+}
